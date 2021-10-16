@@ -10,3 +10,27 @@ A new Flutter project.
 
 
 This project is a starting point for a Flutter application.
+
+
+
+Project includes with professional pattern of UI
+in addition i used
+
+>>setstate() function
+
+>>SplashScreen 
+
+>>map
+
+>>physics widget
+
+>>timerfunction
+
+>>BottomNavigatorBarwidget
+
+>>Stack widget
+
+>>ListView.Seperated()
+
+>>statefull functionilities
+
